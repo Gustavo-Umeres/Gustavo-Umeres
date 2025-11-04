@@ -40,22 +40,23 @@ Mi experiencia abarca desde el *backend* con frameworks robustos hasta el diseñ
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-
 <p align="center">
     Echa un vistazo a mi actividad, contribuciones y lenguajes más usados.
 </p>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB" 
+        <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Umeres&show_icons=true&theme=dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB" 
         alt="Gustavo's GitHub Stats" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=61DAFB" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Umeres&layout=compact&theme=dark&hide_border=true&title_color=61DAFB" 
         alt="Top Lenguajes" />
     </a>
 </p>
+
+---
 
 ### 📧 Conéctate Conmigo
 
