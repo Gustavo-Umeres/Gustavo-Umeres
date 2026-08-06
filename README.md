@@ -10,11 +10,13 @@
 
 ## Sobre mí
 
-La tecnología me apasiona. Me dedico a la **calidad del software** porque me gusta verificar que lo que se construye funcione de verdad, no solo "de casualidad": entender cómo funciona algo y encontrar el detalle que nadie detecta.
+Soy un apasionado de la tecnología y, por ese motivo, me enfoco en asegurar la calidad del software. No me conformo con que las cosas funcionen: quiero que sean confiables y que cumplan lo que prometen, y es justo esa parte del proceso la que más me gusta cuidar.
 
-Con la IA creando cada vez más software, creo que la calidad importa más que nunca: que algo funcione a simple vista no significa que esté bien hecho.
+Elegí el QA porque combina dos cosas que me parecen naturales: el análisis, para entender cómo va todo por dentro de una aplicación, y el detalle, para encontrar aquello que casi nadie ve. Cuando pruebo no me quedo solo con que la pantalla se vea bien; me interesa probar el caso extraño, ver si el sistema responde como debería y dejar evidencia clara de los puntos que fallan.
 
-Mi proceso se ordena con **ISTQB**, **STLC/SDLC** y equipos **Agile/Scrum**.
+Creo que hoy la calidad vale más que nunca. La IA está generando software cada vez más rápido, pero algo que "funciona a simple vista" no siempre está bien hecho y siempre puede quedar un error que nadie notó. Ahí es donde quien hace QA aporta de verdad.
+
+Para mantener orden en el trabajo sigo la metodología ISTQB, los procesos STLC y SDLC, y me gusta formar parte de equipos Agile y Scrum. Tener bases de programación (Java, React, SQL) me permite entender mejor lo que pruebo, algo que me parece un plus en el día a día.
 
 ---
 
