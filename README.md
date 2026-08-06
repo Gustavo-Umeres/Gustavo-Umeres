@@ -76,10 +76,6 @@ Abierto a proyectos colaborativos y oportunidades en QA, automatización y desar
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://wa.me/51999999999" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-    &nbsp;&nbsp;
     <a href="mailto:theguum@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
