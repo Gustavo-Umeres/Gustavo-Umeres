@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.svg" alt="Gustavo Umeres banner" width="100%"/>
+    <img src="banner.gif" alt="Gustavo Umeres banner" width="100%"/>
 </p>
 
 <div align="center">
