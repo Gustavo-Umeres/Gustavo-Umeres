@@ -10,13 +10,11 @@
 
 ## Sobre mí
 
-Soy un apasionado de la tecnología y, por ese motivo, me enfoco en asegurar la calidad del software. No me conformo con que las cosas funcionen: quiero que sean confiables y que cumplan lo que prometen, y es justo esa parte del proceso la que más me gusta cuidar.
+Soy un apasionado de la tecnología y, por ese motivo, me enfoco en asegurar la calidad del software. No me conformo con que las cosas funcionen: quiero que sean confiables y cumplan lo que prometen.
 
-Elegí el QA porque combina dos cosas que me parecen naturales: el análisis, para entender cómo va todo por dentro de una aplicación, y el detalle, para encontrar aquello que casi nadie ve. Cuando pruebo no me quedo solo con que la pantalla se vea bien; me interesa probar el caso extraño, ver si el sistema responde como debería y dejar evidencia clara de los puntos que fallan.
+Elegí el QA porque combina el análisis de cómo funciona una aplicación por dentro con el detalle de encontrar aquello que casi nadie ve. Cuando pruebo no me quedo solo con que la pantalla se vea bien; quiero saber si el sistema responde ante el caso extraño y dejar evidencia clara de lo que falla.
 
-Creo que hoy la calidad vale más que nunca. La IA está generando software cada vez más rápido, pero algo que "funciona a simple vista" no siempre está bien hecho y siempre puede quedar un error que nadie notó. Ahí es donde quien hace QA aporta de verdad.
-
-Para mantener orden en el trabajo sigo la metodología ISTQB, los procesos STLC y SDLC, y me gusta formar parte de equipos Agile y Scrum. Tener bases de programación (Java, React, SQL) me permite entender mejor lo que pruebo, algo que me parece un plus en el día a día.
+Hoy la calidad vale más que nunca: la IA genera software cada vez más rápido, pero que algo funcione a simple vista no significa que esté bien hecho, y ahí es donde aporta quien hace QA. Sigo la metodología ISTQB, los procesos STLC/SDLC y trabajo en equipos Agile, y mis bases de programación (Java, React, SQL) me ayudan a entender mejor lo que pruebo.
 
 ---
 
