@@ -1,10 +1,16 @@
+<p align="center">
+    <img src="banner.svg" alt="Gustavo Umeres banner" width="100%"/>
+</p>
+
 <div align="center">
 
-# Gustavo Umeres
+# 👋 Gustavo Umeres
 
 **Ingeniero de Sistemas en formación · UNTELS**
 
 QA / Automation — con nociones de desarrollo full stack
+
+[![Visitas](https://komarev.com/ghpvc/?username=Gustavo-Umeres&style=flat-square&color=6A5ACD)](https://github.com/Gustavo-Umeres)
 
 </div>
 
@@ -54,14 +60,6 @@ Sigo la metodología ISTQB, trabajo con los procesos STLC y SDLC, y me desenvuel
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
----
-
-## Proyectos
-
-- **Amazing Store** — Aplicación full stack (React, Spring Boot, Java, SQL) con pruebas de API y de UI.
-- **Test Automation** — Suites de E2E con Selenium y Playwright, y pruebas de API con Postman.
-- **Performance y CI/CD** — Pruebas de carga y pipelines orientados a proteger la calidad en cada deploy.
 
 ---
 
