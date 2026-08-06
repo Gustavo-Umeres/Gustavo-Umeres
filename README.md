@@ -2,8 +2,7 @@
 
 # 👋 Hola, soy Gustavo Umeres
 
-**QA Tester · Aseguramiento de Calidad**  
-**Ing. de Sistemas · UNTELS**
+**Calidad del software · QA · Ingeniería de Sistemas · UNTELS**
 
 </div>
 
@@ -11,54 +10,46 @@
 
 ## Sobre mí
 
-Me gusta la tecnología y, sobre todo, asegurarme de que lo que se construye **funcione bien de verdad**. Por eso me dedico al **QA**: pruebo, reviso, dudo y busco evidencias antes de dar algo por bueno.
+La **tecnología me apasiona**. Desde que empecé la carrera noté que una buena prueba marca la diferencia entre una aplicación que brinda confianza y otra que solo "funciona de casualidad". Esa es la razón por la que me dedico a la **calidad del software**: me gusta verificar que lo que se construye funcione bien y aguante lo que promete.
 
-Hoy trabajo como **QA manual**, y estoy aprendiendo a automatizar con Selenium, Playwright y Postman para subir de nivel poco a poco. También tengo bases de programación (Java, Spring Boot, React, SQL) que me ayudan a entender mejor lo que estoy probando.
+Me atrajo el **QA** porque combina dos cosas que me gustan: entender cómo funciona lo que hay detrás de una aplicación y encontrar ese detalle que casi nadie detecta. Al final, mucha de la lógica buena de un producto se debe a había alguien probando, dudando y dejando evidencia de dónde fallaba.
 
-Creo que en un mundo donde la IA está impulsando la creación de grandes volúmenes de software, la calidad es más importante que nunca: que una aplicación funcione a simple vista no significa que esté perfecta, siempre puede haber un error que el programador no detectó.
+Hoy, con la IA impulsando la creación de cada vez más software en menos tiempo, creo que la **calidad** cobra todavía más valor: que algo funcione a simple vista no significa que esté bien hecho, y siempre puede quedar un error que el desarrollo no notó.
 
-Mi día a día sigue la metodología **ISTQB**, se apoya en los procesos **STLC** y **SDLC**, y se trabaja mejor en equipos **Agile/Scrum**.
+Tener bases de programación (Java, React, SQL) me ayuda a entender mejor lo que pruebo. Los procesos **STLC** y **SDLC**, la metodología **ISTQB** y el trabajo en equipos **Agile/Scrum** son mi forma de ordenar el trabajo para entregar software más confiable.
 
 ---
 
-## Mi stack
-
-### Testing y automatización
+## Tecnologías
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### Programación y desarrollo
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### Herramientas y procesos
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48"/>
-    <img src="https://img.shields.io/badge/ISTQB-6A5ACD?style=for-the-badge" alt="ISTQB"/>
-    <img src="https://img.shields.io/badge/STLC-5B5B5B?style=for-the-badge" alt="STLC"/>
-    <img src="https://img.shields.io/badge/SDLC-5B5B5B?style=for-the-badge" alt="SDLC"/>
-    <img src="https://img.shields.io/badge/Agile-00A8EF?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Agile"/>
-    <img src="https://img.shields.io/badge/Scrum-4CAF50?style=for-the-badge" alt="Scrum"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ---
 
 ## 📫 ¿Hablamos?
 
-Abierto a oportunidades en QA y aseguramiento de calidad, y a colaborar en equipos ágiles.
+Abierto a colaborar en proyectos de QA, prueba y calidad, y a seguir conversando de tecnología.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gustavoumeres/" target="_blank">
