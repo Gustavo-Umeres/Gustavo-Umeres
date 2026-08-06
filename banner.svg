@@ -85,6 +85,6 @@
   </g>
 
   <!-- Título -->
-  <text x="600" y="96" class="mtitle" font-size="50" font-weight="700" text-anchor="middle">Gustavo Umeres</text>
+  <text x="600" y="96" class="mtitle" font-size="50" font-weight="700" text-anchor="middle">Hola, soy Gustavo</text>
   <text x="600" y="142" font-family="Courier New, monospace" font-size="22" fill="#8ee6a8" text-anchor="middle">QA &amp; Automation · Ingeniero de Sistemas en formación · UNTELS</text>
 </svg>
